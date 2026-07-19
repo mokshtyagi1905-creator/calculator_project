@@ -29,7 +29,7 @@ Calculator-Projects/
 * Division
 * Menu-driven interface
 
-##Furure Improvement
+## Future Improvement
 1. Add a menu-drawn interface
 2.Handle invalid inputs
 3. Prevent division by zero
